@@ -2,8 +2,6 @@
 
 A modern React-based frontend application for a clinic appointment management system. This application allows patients and doctors to manage appointments, prescriptions, and user profiles through an intuitive user interface.
 
-A full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) for a Clinic Appointment System. It enables users to securely register, authenticate, and explore pets available for adoption. The app features a responsive, mobile-first design with smooth animations to enhance user engagement. Users can browse adoptable pets, submit and manage adoption requests, add or edit pet listings, and update their user profiles. JWT-based authentication protects user-specific features, while MongoDB efficiently manages all CRUD operations for users, pets, and adoption requests—ensuring scalable, real-time performance across devices.
-
 ## Technology Stack
 
 - **Framework**: [React 19](https://reactjs.org/)
@@ -120,4 +118,3 @@ FrontEnd/
 4. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 5. Push to the branch (`git push origin feature/AmazingFeature`)
 6. Open a pull request
-
