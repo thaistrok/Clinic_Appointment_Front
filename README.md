@@ -4,13 +4,15 @@
 ![ERD](./src/assets/screenShots/{8F56986C-9C5C-4995-B763-B9323EF99DC6}.png)
 
 [#BACK END](#back-end)
-[#Clinic_Appointment_Back](https://github.com/thaistrok/Clinic_Appointment_Back)
+
+[#clinic_appointment_server](https://github.com/thaistrok/clinic_appointment_server)
 
 [#FRONT END](#font-end)
+
 [#Clinic_Appointment_Front](https://github.com/thaistrok/Clinic_Appointment_Front)
 
 # Deployed link:
-[Clinic_Appointment](Clinic_Appointment.surge.sh )
+[Clinic_Appointment](Clinic_Appointment.surge.sh)
 
 # front-end🎨
 - [🔧 Back End](#back-end)
