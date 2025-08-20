@@ -12,7 +12,7 @@
 [#Clinic_Appointment_Front](https://github.com/thaistrok/Clinic_Appointment_Front)
 
 # Deployed link:
-[Clinic_Appointment](Clinic_Appointment.surge.sh)
+[Clinic_Appointment](https://crooked-rainstorm.surge.sh)
 
 # front-end🎨
 - [🔧 Back End](#back-end)
