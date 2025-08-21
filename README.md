@@ -21,6 +21,14 @@
 
 A full-stack web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) for a clinic appointment management system. It enables patients and staff to securely register, authenticate, and manage medical appointments. The app features a responsive, user-friendly interface with intuitive navigation and real-time updates to enhance accessibility and efficiency. Users can book, view, reschedule, or cancel appointments, receive email notifications, manage patient profiles, and handle prescriptions and medications. JWT-based authentication ensures secure access to role-based features, while MongoDB handles all CRUD operations for users, appointments, and medical records—delivering scalable, reliable performance across devices.
 
+## User Story
+
+As a patient, I want to be able to book appointments with doctors online so that I can easily schedule medical consultations without having to call the clinic during business hours.
+
+As a doctor, I want to view and manage my appointments so that I can efficiently organize my schedule and provide better care to my patients.
+
+As an administrator, I want to oversee all appointments and user accounts so that I can ensure the system runs smoothly and securely.
+
 ## Technology Stack
 
 - **Framework**: [React 19](https://reactjs.org/)
